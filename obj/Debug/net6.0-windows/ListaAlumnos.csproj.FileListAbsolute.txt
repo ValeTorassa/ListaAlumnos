@@ -1,0 +1,17 @@
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\bin\Debug\net6.0-windows\ListaAlumnos.exe
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\bin\Debug\net6.0-windows\ListaAlumnos.deps.json
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\bin\Debug\net6.0-windows\ListaAlumnos.runtimeconfig.json
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\bin\Debug\net6.0-windows\ListaAlumnos.dll
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\bin\Debug\net6.0-windows\ListaAlumnos.pdb
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.csproj.AssemblyReference.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.listaAlumnos.resources
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.csproj.GenerateResource.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.AssemblyInfoInputs.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.AssemblyInfo.cs
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.dll
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\refint\ListaAlumnos.dll
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.pdb
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ListaAlumnos.genruntimeconfig.cache
+D:\ESCRITORIO NO BORRAR\C#\C#\Segundo año\Clase 4\Valentin.Torassa.Colombero-Lista Alumnos\ListaAlumnos\obj\Debug\net6.0-windows\ref\ListaAlumnos.dll
